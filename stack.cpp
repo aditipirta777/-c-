@@ -1,10 +1,7 @@
 #include<iostream>
 using namespace std;
-// stack has only three functions = 1 remove and add at top , display
-//stack operations = push,pop
 
 class Stack {
-    protected:
     int top;
     int arr[5];
 
